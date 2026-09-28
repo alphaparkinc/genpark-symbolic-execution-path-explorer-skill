@@ -1,0 +1,6 @@
+name: genpark-symbolic-execution-path-explorer-skill
+version: 1.0.0
+description: Forward symbolic execution engine with path condition tracking, branch bifurcation, and state exploration
+command: python
+args:
+  - mcp_server.py
