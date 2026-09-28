@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-symbolic-execution-path-explorer-skill"
+version = "1.0.0"
+description = "Forward symbolic execution engine with path condition tracking, branch bifurcation, and state exploration"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
