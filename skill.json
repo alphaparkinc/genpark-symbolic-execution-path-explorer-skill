@@ -1,0 +1,20 @@
+{
+  "name": "genpark-symbolic-execution-path-explorer-skill",
+  "version": "1.0.0",
+  "description": "Forward symbolic execution engine with path condition tracking, branch bifurcation, and state exploration",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "symbolic-execution",
+    "formal-methods",
+    "path-conditions",
+    "program-analysis",
+    "concolic-testing",
+    "python-standard-library",
+    "agent-skills",
+    "smt-solver",
+    "software-verification",
+    "automated-testing"
+  ]
+}
